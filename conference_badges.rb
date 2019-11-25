@@ -5,8 +5,8 @@ def badge_maker(name)
 end
 
  attendees=["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
-  badges=[]
 def batch_badge_creator(attendees)
+  badges=[]
   attendees.each do |arg|
     badges<<("Hello, my name is #{arg}.")
 end
