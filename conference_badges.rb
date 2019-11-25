@@ -24,6 +24,5 @@ end
 
 
 def printer(attendees)
-  puts batch_badge_creator(attendees).chomp(badges)+assign_rooms(attendees).chomp(room_assignments)
-end
+assign_rooms
   
