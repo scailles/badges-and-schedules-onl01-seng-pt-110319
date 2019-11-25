@@ -21,3 +21,6 @@ attendees.each_with_index do |arg, index|
 end
 return room_assignments
 end
+
+
+
