@@ -15,3 +15,4 @@ end
 
 
 assign_rooms(attendees)
+attendees.
