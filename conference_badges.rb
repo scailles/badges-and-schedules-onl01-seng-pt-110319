@@ -23,4 +23,5 @@ return room_assignments
 end
 
 
-
+def print
+  
