@@ -8,3 +8,4 @@ attendees=["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 def batch_badge_creator(attendees) do
  return badge_maker(attendees)
 end
+end
