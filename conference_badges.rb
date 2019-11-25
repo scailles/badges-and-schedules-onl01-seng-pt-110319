@@ -14,5 +14,5 @@ return badges
 end
 
 
-def assign_rooms
+def assign_rooms(attendees)
   attendees.each do |arg|
