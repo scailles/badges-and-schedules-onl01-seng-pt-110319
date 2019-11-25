@@ -13,3 +13,5 @@ end
 return badges
 end
 
+
+assign_rooms(attendees)
