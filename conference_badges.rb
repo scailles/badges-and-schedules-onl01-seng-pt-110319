@@ -15,4 +15,4 @@ end
 
 
 assign_rooms(attendees)
-attendees.
+attendees.each_with
